@@ -3,5 +3,6 @@
 !/.gitattributes
 !/config/
 !/plugins/
+!/patchers
 /plugins/BetterAutoRun.dll
 /config/stringerapps.BetterAutoRun.cfg

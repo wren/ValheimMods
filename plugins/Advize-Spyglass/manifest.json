@@ -1,9 +1,0 @@
-{
-  "name": "Spyglass",
-  "description": "Adds a craftable and functional spyglass that doubles as a weapon. Use it to bash your enemies or to see their cowardly faces up close... but from a safe distance! Uses custom mesh, textures, and logic. Configurable and includes gamepad support.",
-  "version_number": "3.1.0",
-  "dependencies": [
-    "denikson-BepInExPack_Valheim-5.4.2202"
-  ],
-  "website_url": "https://www.nexusmods.com/valheim/mods/2620"
-}

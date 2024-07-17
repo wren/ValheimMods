@@ -6,3 +6,7 @@
 !/patchers
 /plugins/BetterAutoRun.dll
 /config/stringerapps.BetterAutoRun.cfg
+/config/wackyDatabase-BulkYML/
+/config/PlanBuild/blueprints/
+*.dat
+*.blueprint

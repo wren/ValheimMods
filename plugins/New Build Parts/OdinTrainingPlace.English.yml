@@ -1,0 +1,38 @@
+# Items
+## Item names and descriptions
+
+Odin_Vitamin: "Odin Vitamin"
+Odin_Vitamin_desc: "Odin Vitamin is unique formula which help You with training for couple of minutes (+150% to EXP gain to all skills) and increase greatly Your stamina regeneration but in exchange You will be very weak for any damage and You will deal negative damage. This potion is great too use in Training Place."
+
+Odin_Vitamin_Run: "Odin Vitamin - Running"
+Odin_Vitamin_Run_desc: "Odin Vitamin is unique formula which help You with training for couple of minutes (+500% to Running gain skill) and increase greatly Your stamina regeneration but in exchange You will be very weak for any damage and You will deal negative damage. This potion is great too use in Training Place."
+
+Odin_Vitamin_Sneak: "Odin Vitamin - Sneaking"
+Odin_Vitamin_Sneak_desc: "Odin Vitamin is unique formula which help You with training for couple of minutes (+500% to Sneak gain skill) and increase greatly Your stamina regeneration but in exchange You will be very weak for any damage and You will deal negative damage. This potion is great too use in Training Place."
+
+Odin_Vitamin_Swim: "Odin Vitamin - Swimming"
+Odin_Vitamin_Swim_desc: "Odin Vitamin is unique formula which help You with training for couple of minutes (+500% to Swimming gain skill) and increase greatly Your stamina regeneration but in exchange You will be very weak for any damage and You will deal negative damage. This potion is great too use in Training Place."
+
+# Pieces
+## Buildable components
+
+Unnatural_Flint_Rock: "Flint Training Rock"
+Unnatural_Flint_Rock_desc: "Train your pickaxe skills."
+
+Running_Track: "Running track"
+Running_Track_desc: "Tribal running track to train Run and Sneak skills."
+
+Swimming_Pool: "Swimming Pool"
+Swimming_Pool_desc: "Train your swimming skills."
+
+Archery_Target: "Archery Target"
+Archery_Target_desc: "Train your bow skills."
+
+Wooden_Dummy: "Wooden Dummy"
+Wooden_Dummy_desc: "Train close-combat and weapons skills."
+
+Mechanical_Dummy: "Mechanical Dummy"
+Mechanical_Dummy_desc: "Train your blocking skills."
+
+Hard_Wooden_Pole: "Wooden Pole"
+Hard_Wooden_Pole_desc: "Train your chopping skills."

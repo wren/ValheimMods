@@ -1,0 +1,61 @@
+name: mm_corewood_stackable_chest
+piecehammer: Hammer
+m_name: $piece_mm_corewood_chest_stackable
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: CoreWood-Furniture
+minStationLevel: 1
+amount: 1
+disabled: true
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 600
+  damageModifiers:
+    m_blunt: Resistant
+    m_slash: Resistant
+    m_pierce: Resistant
+    m_chop: Resistant
+    m_pickaxe: Resistant
+    m_fire: Resistant
+    m_frost: Resistant
+    m_lightning: Normal
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: true
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData:
+  Width: 6
+  Height: 4
+  CheckWard: true
+  AutoDestoryIfEmpty: false
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+build:
+- RoundLog:4:0:True
+- Wood:4:0:True
+- Coal:1:0:True

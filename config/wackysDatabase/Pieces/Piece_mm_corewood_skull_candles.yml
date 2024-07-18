@@ -1,0 +1,68 @@
+name: mm_corewood_skull_candles
+piecehammer: Hammer
+m_name: $piece_mm_skull_candles
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_workbench
+piecehammerCategory: CoreWood-Furniture
+minStationLevel: 1
+amount: 1
+disabled: true
+adminonly: false
+comfort:
+  comfort: 1
+  comfortGroup: Fire
+  comfortObject: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: true
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 100
+  damageModifiers:
+    m_blunt: Normal
+    m_slash: Normal
+    m_pierce: Normal
+    m_chop: Normal
+    m_pickaxe: Normal
+    m_fire: Normal
+    m_frost: Normal
+    m_lightning: Normal
+    m_poison: Normal
+    m_spirit: Normal
+  noRoofWear: false
+  noSupportWear: false
+  supports: false
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData:
+  StartFuel: 3
+  MaxFuel: 50
+  SecPerFuel: 4000
+  InfiniteFuel: false
+  FuelType: Resin
+  IgniteInterval: 0
+  IgniteChance: 0
+  IgniteSpread: 4
+teleportWorldData: 
+build:
+- RoundLog:1:0:True
+- BoneFragments:6:0:True
+- Resin:3:0:True

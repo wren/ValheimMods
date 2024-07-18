@@ -1,0 +1,747 @@
+Pickable:
+- m_prefabName: BlueberryBush
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: CloudberryBush
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: Pickable_Carrot
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: Pickable_Fiddlehead
+  m_spring:
+    m_amount: 3
+    m_canHarvest: true
+  m_summer:
+    m_amount: 3
+    m_canHarvest: true
+  m_fall:
+    m_amount: 3
+    m_canHarvest: true
+  m_winter:
+    m_amount: 3
+    m_canHarvest: false
+- m_prefabName: Pickable_Mushroom
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: Pickable_Mushroom_blue
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: Pickable_Mushroom_JotunPuffs
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: Pickable_Mushroom_Magecap
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: Pickable_Mushroom_yellow
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: Pickable_Onion
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: Pickable_RoyalJelly
+  m_spring:
+    m_amount: 5
+    m_canHarvest: true
+  m_summer:
+    m_amount: 5
+    m_canHarvest: true
+  m_fall:
+    m_amount: 5
+    m_canHarvest: true
+  m_winter:
+    m_amount: 5
+    m_canHarvest: false
+- m_prefabName: Pickable_SmokePuff
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: RaspberryBush
+  m_spring:
+    m_amount: 1
+    m_canHarvest: true
+  m_summer:
+    m_amount: 1
+    m_canHarvest: true
+  m_fall:
+    m_amount: 1
+    m_canHarvest: true
+  m_winter:
+    m_amount: 1
+    m_canHarvest: false
+- m_prefabName: VineAsh
+  m_spring:
+    m_amount: 3
+    m_canHarvest: true
+  m_summer:
+    m_amount: 3
+    m_canHarvest: true
+  m_fall:
+    m_amount: 3
+    m_canHarvest: true
+  m_winter:
+    m_amount: 3
+    m_canHarvest: false
+Plants:
+- m_prefabName: Beech_Sapling
+  m_spring:
+    m_maxScale: 1.5
+    m_minScale: 0.8
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.5
+    m_minScale: 0.8
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.5
+    m_minScale: 0.8
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.5
+    m_minScale: 0.8
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: false
+- m_prefabName: Birch_Sapling
+  m_spring:
+    m_maxScale: 1
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: false
+- m_prefabName: FirTree_Sapling
+  m_spring:
+    m_maxScale: 2.5
+    m_minScale: 1
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 2.5
+    m_minScale: 1
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 2.5
+    m_minScale: 1
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 2.5
+    m_minScale: 1
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: false
+- m_prefabName: Oak_Sapling
+  m_spring:
+    m_maxScale: 0.9
+    m_minScale: 0.7
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 0.9
+    m_minScale: 0.7
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 0.9
+    m_minScale: 0.7
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 0.9
+    m_minScale: 0.7
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: false
+- m_prefabName: PineTree_Sapling
+  m_spring:
+    m_maxScale: 2.5
+    m_minScale: 1.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 2.5
+    m_minScale: 1.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 2.5
+    m_minScale: 1.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 2.5
+    m_minScale: 1.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: false
+- m_prefabName: sapling_barley
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: sapling_carrot
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: sapling_flax
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: sapling_jotunpuffs
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: sapling_magecap
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: sapling_onion
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: sapling_seedcarrot
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: sapling_seedonion
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: sapling_seedturnip
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: sapling_turnip
+  m_spring:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1.1
+    m_minScale: 0.9
+    m_growTimeMax: 5000
+    m_growTime: 4000
+    m_canHarvest: false
+- m_prefabName: VineAsh_sapling
+  m_spring:
+    m_maxScale: 1
+    m_minScale: 1
+    m_growTimeMax: 300
+    m_growTime: 200
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1
+    m_minScale: 1
+    m_growTimeMax: 300
+    m_growTime: 200
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1
+    m_minScale: 1
+    m_growTimeMax: 300
+    m_growTime: 200
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1
+    m_minScale: 1
+    m_growTimeMax: 300
+    m_growTime: 200
+    m_canHarvest: false
+- m_prefabName: Ashwood_Sapling
+  m_spring:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: false
+- m_prefabName: Ygga_Sapling
+  m_spring:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: false
+- m_prefabName: Ancient_Sapling
+  m_spring:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 2
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: false
+- m_prefabName: Autumn_Birch_Sapling
+  m_spring:
+    m_maxScale: 1
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_summer:
+    m_maxScale: 1
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_fall:
+    m_maxScale: 1
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: true
+  m_winter:
+    m_maxScale: 1
+    m_minScale: 0.5
+    m_growTimeMax: 3000
+    m_growTime: 3000
+    m_canHarvest: false
+Beehives:
+- m_prefabName: piece_beehive
+  m_spring:
+    m_maxHoney: 4
+    m_canHarvest: true
+  m_summer:
+    m_maxHoney: 4
+    m_canHarvest: true
+  m_fall:
+    m_maxHoney: 4
+    m_canHarvest: true
+  m_winter:
+    m_maxHoney: 4
+    m_canHarvest: false
+- m_prefabName: piece_BasketHive
+  m_spring:
+    m_maxHoney: 4
+    m_canHarvest: true
+  m_summer:
+    m_maxHoney: 4
+    m_canHarvest: true
+  m_fall:
+    m_maxHoney: 4
+    m_canHarvest: true
+  m_winter:
+    m_maxHoney: 4
+    m_canHarvest: false
+Pieces:
+- m_prefabName: piece_gift1
+  m_season: Winter
+- m_prefabName: piece_gift2
+  m_season: Winter
+- m_prefabName: piece_gift3
+  m_season: Winter
+- m_prefabName: piece_jackoturnip
+  m_season: Fall
+- m_prefabName: piece_maypole
+  m_season: Summer
+- m_prefabName: piece_mistletoe
+  m_season: Winter
+- m_prefabName: piece_xmascrown
+  m_season: Winter
+- m_prefabName: piece_xmasgarland
+  m_season: Winter
+- m_prefabName: piece_xmastree
+  m_season: Winter
+Items:
+- m_prefabName: HelmetMidsummerCrown
+  m_price: 1000
+  m_stack: 1
+  m_season: None
+- m_prefabName: HelmetPointyHat
+  m_price: 1000
+  m_stack: 1
+  m_season: None
+- m_prefabName: PickaxeStone
+  m_price: 1000
+  m_stack: 1
+  m_season: None
+- m_prefabName: QueenBee
+  m_price: 999
+  m_stack: 1
+  m_season: Summer

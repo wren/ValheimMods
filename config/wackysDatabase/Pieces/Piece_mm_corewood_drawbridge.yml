@@ -1,0 +1,57 @@
+name: mm_corewood_drawbridge
+piecehammer: Hammer
+m_name: $piece_mm_corewood_drawbridge
+sizeMultiplier: 1
+m_description: ''
+customIcon: 
+clonePrefabName: 
+material: 
+damagedMaterial: 
+craftingStation: $piece_forge
+piecehammerCategory: CoreWood-Building
+minStationLevel: 1
+amount: 1
+disabled: true
+adminonly: false
+comfort: 
+groundPiece: false
+ground: false
+waterPiece: false
+noInWater: false
+notOnFloor: false
+onlyinTeleportArea: false
+allowedInDungeons: false
+canBeRemoved: true
+notOnWood: false
+wearNTearData:
+  health: 1000
+  damageModifiers:
+    m_blunt: VeryResistant
+    m_slash: VeryResistant
+    m_pierce: Resistant
+    m_chop: Normal
+    m_pickaxe: Immune
+    m_fire: Weak
+    m_frost: VeryResistant
+    m_lightning: VeryResistant
+    m_poison: Immune
+    m_spirit: Immune
+  noRoofWear: false
+  noSupportWear: true
+  supports: true
+  triggerPrivateArea: true
+craftingStationData: 
+cSExtensionData: 
+contData: 
+smelterData: 
+cookingStationData: 
+beehiveData: 
+fermStationData: 
+sapData: 
+incineratorData: 
+fireplaceData: 
+teleportWorldData: 
+build:
+- RoundLog:8:0:True
+- Wood:20:0:True
+- Iron:6:0:True

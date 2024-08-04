@@ -1,0 +1,9 @@
+{
+  "name": "HUDCompass",
+  "description": "A Heads Up Display compass with map pins and dynamic markers for Ships, Carts and Portals",
+  "version_number": "1.0.12",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2674/",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2100"
+  ]
+}

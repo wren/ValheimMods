@@ -10,3 +10,4 @@
 /config/PlanBuild/blueprints/
 *.dat
 *.blueprint
+!*.dll
